@@ -34,11 +34,11 @@
         <mxCell id="V3AIk7Uvm4u_U-9z5ptn-10" value="Frontend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V3AIk7Uvm4u_U-9z5ptn-11" value="&lt;div&gt;C# &lt;br&gt;&lt;/div&gt;&lt;div&gt;(MAUI)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="155.5" y="290" width="99" height="40" as="geometry" />
+        <mxCell id="V3AIk7Uvm4u_U-9z5ptn-11" value="&lt;div&gt;C# / MAUI &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Desktop)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="152.75" y="280" width="104.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V3AIk7Uvm4u_U-9z5ptn-12" value="&lt;div&gt;TypeScript&lt;/div&gt;&lt;div&gt;(React)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="155.5" y="360" width="99" height="40" as="geometry" />
+        <mxCell id="V3AIk7Uvm4u_U-9z5ptn-12" value="&lt;div&gt;TypeScript/React&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Web)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="152.75" y="360" width="104.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V3AIk7Uvm4u_U-9z5ptn-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V3AIk7Uvm4u_U-9z5ptn-6" target="96OnCysgnm1QU07OWwqa-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
